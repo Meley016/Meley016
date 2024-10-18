@@ -29,6 +29,7 @@
 
 1. **[Dự án Xây dựng web bán điện thoại](https://i-tribe.vercel.app/)**  
    🔹   Mở rộng thị trường sang thương mại điện tử cho Công ty ITribe.
+
    🔹  Thời gian phát triển 6 tháng.
 ---
 
