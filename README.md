@@ -1,6 +1,6 @@
 # 🌟 Hồ Sơ Cá Nhân 🌟
 
-![Avatar của bạn]([https://th.bing.com/th/id/R.15267178d6fef90540bb0b66f49e2490?rik=xu%2fbeOKvhEVqFg&pid=ImgRaw&r=0](https://avatars.githubusercontent.com/u/146869476?s=400&u=0f69194188459fb188428f6a4f433f3b256dd7a0&v=4)) <!-- Thay đường dẫn bằng ảnh đại diện của bạn -->
+![Avatar của bạn](https://github.com/settings/profile) <!-- Thay đường dẫn bằng ảnh đại diện của bạn -->
 
 ## Thông tin cá nhân 📝
 
