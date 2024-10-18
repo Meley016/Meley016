@@ -1,6 +1,6 @@
 # 🌟 Hồ Sơ Cá Nhân 🌟
 
-![Avatar của bạn](https://img.favpng.com/8/8/10/misty-pok-mon-go-pok-mon-yellow-psyduck-png-favpng-K1jbQreaDyhRC2mD26rmEjvUN.jpg) <!-- Thay đường dẫn bằng ảnh đại diện của bạn -->
+![Avatar của bạn](https://img.thuthuat123.com/uploads/2019/10/11/hinh-nen-may-tinh-mau-den_023946299.jpg) <!-- Thay đường dẫn bằng ảnh đại diện của bạn -->
 
 ## Thông tin cá nhân 📝
 
